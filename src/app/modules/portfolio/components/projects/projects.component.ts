@@ -30,7 +30,7 @@ export class ProjectsComponent {
       links: [
         {
           name: 'Conheça o Site',
-          href: 'ecommerce-teal-eight.vercel.app',
+          href: 'https://ecommerce-teal-eight.vercel.app',
         },
       ],
     },
@@ -45,7 +45,7 @@ export class ProjectsComponent {
       links: [
         {
           name: 'Conheça o Site',
-          href: 'know-flex-b28y.vercel.app',
+          href: 'https://know-flex-b28y.vercel.app',
         },
       ],
     },
@@ -60,14 +60,14 @@ export class ProjectsComponent {
       links: [
         {
           name: 'Conheça o Site',
-          href: 'window-login.vercel.app',
+          href: 'https://window-login.vercel.app',
         },
       ],
     },
     {
       src: 'assets/img/projects/todoList.png',
       alt: '',
-      title: 'Site Ecommerce',
+      title: 'To-Do List',
       width: '200px',
       height: '100px',
       description:
@@ -75,7 +75,7 @@ export class ProjectsComponent {
       links: [
         {
           name: 'Conheça o Site',
-          href: 'listadetarefa-seven.vercel.app',
+          href: 'https://listadetarefa-seven.vercel.app',
         },
       ],
     },
